@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HWLayoutSample</string>
+
+    <string name="playstore_title">Play Store</string>
+    <string name="playstore_large_text1">금주의 Play추천 게임</string>
+    <string name="playstore_small_text1">에디터가 엄선, 강력 추천!</string>
+    <string name="playstore_large_text2">최신 대박 히트 게임!</string>
+    <string name="playstore_small_text2">아직 안해보셨어요?</string>
+</resources>
